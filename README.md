@@ -1,5 +1,5 @@
 **---------JAVA FULL STACK DEVELOPMENT-----------**<br />
-**Online Faculty/Student Grievance Management System**
+**Online Faculty/Student Grievance Management System**<br />
 **Goal**: To promptly handle complaints and find solutions, creating a supportive learning environment for both teachers
 and students.
 **Technologies used in this project**: Java,MySQL
