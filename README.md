@@ -1,4 +1,6 @@
-JAVA FULL STACK DEVELOPMENT
+**JAVA FULL STACK DEVELOPMENT**
+Online Faculty/Student Grievance Management System
+
 
 
 ![Screenshot (487)](https://github.com/klu-2100032567/Faculty-Student-Grievance-Management-System/assets/121150348/cbc13bdc-91fc-4f59-91be-52d4b897d5d5)
