@@ -2,7 +2,7 @@
 **Online Faculty/Student Grievance Management System**<br />
 **Goal**: To promptly handle complaints and find solutions, creating a supportive learning environment for both teachers
 and students.
-**Technologies used in this project**: Java,MySQL
+**Technologies used in this project**: Java,MySQL<br />
 **Task done in this project**: Developed frontend for faculty and student Complaints and service modules.
 
 
